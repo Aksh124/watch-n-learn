@@ -7,7 +7,7 @@
 
 <br>
 
-<h1 align="center">Watch N Learn</h1>
+<h1 align="center">Jaff Bezaos</h1>
 
 <h2>Description</h2>
 
